@@ -86,12 +86,6 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "english_words",
-      "rootUri": "file:///Users/adamalcantara/.pub-cache/hosted/pub.dev/english_words-4.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "fake_async",
       "rootUri": "file:///Users/adamalcantara/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
       "packageUri": "lib/",
@@ -332,7 +326,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-08-31T03:22:20.026238Z",
+  "generated": "2024-08-31T03:24:03.280186Z",
   "generator": "pub",
   "generatorVersion": "3.5.1",
   "flutterRoot": "file:///Users/adamalcantara/Developer/flutter",
