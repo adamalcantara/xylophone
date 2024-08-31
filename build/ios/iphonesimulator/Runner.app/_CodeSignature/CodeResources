@@ -50,7 +50,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		vXsKkElpR0sKpp/PqMS8pPAsAuw=
+		p3WeWwBHQu7LofiUx9mBl6ivZQ4=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		KirC+hqpCnsAtX79fRvrcAcy38s=
+		ijaHrcnYTinyB/FfcmkknZvh/uA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		hMveNk+da2B11LMFTbplSfeB5Jk=
+		n0IK9WvpykEPEkfLolLbETmDpiw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/note1.wav</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		KWt4xG1298kqAV43syla+IHZ7iE=
+		vkzYC5tif9n9tuEkxlK5WbRBgIE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -216,6 +216,62 @@
 		<data>
 		ipm8hg7aB3LzsfShJfpNR0QQ4hw=
 		</data>
+		<key>Frameworks/assets_audio_player.framework/Info.plist</key>
+		<data>
+		s9NfYLKCJJVPmyn1SsSyuQRPB1c=
+		</data>
+		<key>Frameworks/assets_audio_player.framework/_CodeSignature/CodeResources</key>
+		<data>
+		qDoKIfGVHu8DVtSLHKLqszSsAfk=
+		</data>
+		<key>Frameworks/assets_audio_player.framework/assets_audio_player</key>
+		<data>
+		EPrfcdAOMmLErGs1zwAp8bbQ2mU=
+		</data>
+		<key>Frameworks/assets_audio_player_web.framework/Info.plist</key>
+		<data>
+		bsflo+ymHWOHyheI6KZ7luX/iFU=
+		</data>
+		<key>Frameworks/assets_audio_player_web.framework/_CodeSignature/CodeResources</key>
+		<data>
+		G2XXKS8TIgE8VnTuF3lWUrAVqKI=
+		</data>
+		<key>Frameworks/assets_audio_player_web.framework/assets_audio_player_web</key>
+		<data>
+		oKqhSmaHcpWFeXikhAXhOl0JWhs=
+		</data>
+		<key>Frameworks/audioplayers_darwin.framework/Info.plist</key>
+		<data>
+		yYfEhzWmXjCz3wdVUoo8un3Y5GM=
+		</data>
+		<key>Frameworks/audioplayers_darwin.framework/_CodeSignature/CodeResources</key>
+		<data>
+		Ns82Q5W3IfxKs6mTSEUDf3Ld3lM=
+		</data>
+		<key>Frameworks/audioplayers_darwin.framework/audioplayers_darwin</key>
+		<data>
+		uRgi1itDp86o3odRkONMjs2ILO8=
+		</data>
+		<key>Frameworks/path_provider_foundation.framework/Info.plist</key>
+		<data>
+		2xI/bm/EGeBq3ivsbzL+7+jnMjY=
+		</data>
+		<key>Frameworks/path_provider_foundation.framework/_CodeSignature/CodeResources</key>
+		<data>
+		mtYxO52iHTv3+3nfVRfoltXgijg=
+		</data>
+		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation</key>
+		<data>
+		Y5bvQ69cpQIKBxnLnNz7mgJojIM=
+		</data>
+		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
+		<data>
+		i3u5w5iZgo8R/+tGt00ZTgnQG1U=
+		</data>
+		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/LX0ZlwxwIAIhjZaDB8EiH5KpXA=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		bZDGDn2NR6fbVYUff4s7mu9KSQU=
@@ -308,7 +364,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ypOeZxcBtA4Jvm/ZHNeFuVNDjkwDBj519Aszo4sGo4I=
+			ONvvXGu89KhAw65i2+uZ+1rGi2LfiDDKYcpTo60Kclc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -322,7 +378,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XMFqFKfe7yq849YxQ+qgU0sXjRTP9b9pdaYKo0WTzn4=
+			FuYRwCp5w4uHwUvCbuMByYGMby+ecY3eX6WtFi5e8UI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -350,7 +406,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VghCpV7wLVOw+/963AuVvd6wzBWQ/BqftXgNsPkELMc=
+			1wbKxOVzdCe3GV7wNVmmmBPNXfNj9EKC1AUefn4CC38=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/note1.wav</key>
@@ -420,7 +476,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QaeGVH8nYxdiC/4knl3lrN8R2jF7FpfYR8JVOTVzKm4=
+			22o+HZBQrXF8EZKUv+sh+b5LMBbYv/LpXvQvYWMfhxk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -596,6 +652,104 @@
 			<key>hash2</key>
 			<data>
 			wSU3Ai74GJkae/7UGnbY1q6WL/vA5lEax2Kl0IRef3w=
+			</data>
+		</dict>
+		<key>Frameworks/assets_audio_player.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8+JGr90aR28m2pqR6JCLk/qxxUoIL8M3wGmvaLgoGd8=
+			</data>
+		</dict>
+		<key>Frameworks/assets_audio_player.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j7kKPNMOj60+aPRGPmJ/8vnFoj+Q30XfAyk8FpoR5kI=
+			</data>
+		</dict>
+		<key>Frameworks/assets_audio_player.framework/assets_audio_player</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NkEaDK4FgNjj8BKusyXqCyi4fnWWaibGn/rSVPsYEGY=
+			</data>
+		</dict>
+		<key>Frameworks/assets_audio_player_web.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ugi3XHqOY7yR+rDXSDUmrQMOySebm3ko6BpdaysaMyY=
+			</data>
+		</dict>
+		<key>Frameworks/assets_audio_player_web.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NgETcmDAoij8Pb0aIa1vUqW+ysySo8xSK+C57KPHsVM=
+			</data>
+		</dict>
+		<key>Frameworks/assets_audio_player_web.framework/assets_audio_player_web</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sEkxLycBzwNq9hXQq/9pcNBRYfyoyIGjWmgg4Kg/iMs=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers_darwin.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ST95Pf0bOPxOVQynlyw3H11gL9aWIp5xe0n5mtDssa4=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers_darwin.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j5PEkVdXhBH5LtSawHcWdQsP8J2oKsOTLe+Xg+0SeQg=
+			</data>
+		</dict>
+		<key>Frameworks/audioplayers_darwin.framework/audioplayers_darwin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mpWQvmxUjuTZc38tHQSgWcI1lL1HofUNoXbmXJpJT7w=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_foundation.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l01aLYBfpU/PUywqHcgr1Td6yTU8dzMlfCm4KrsPBIY=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_foundation.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZYm52yhb4v6xEfjcOWwMC+YYToqyMCRW0Fcx/1rnK2Y=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bZe/q0CvBo2VyJcd+ESw0RWux71OuAxVdENnTHJyLGg=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZTUecskQIiRU7AqLIpqjiDouHYF64es4Z1YEFiDWZ/g=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bS2g2NkwIn1CjB2TY7CtbjoS4sm2jFzilxWKdBL8jDE=
 			</data>
 		</dict>
 	</dict>
