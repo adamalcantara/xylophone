@@ -16,91 +16,128 @@ class XylophoneApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
+        backgroundColor: Colors. black,
         body: SafeArea(
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Container(
-                height: 100.0,
-                width: 200.0,
-                color: Colors.red,
-                child: TextButton(
-                  onPressed: () {
-                    print('Clicked');
-                    playSound(1);
-                  },
+                child: Expanded(
+                  child: TextButton(
+                    onPressed: () {
+                      print('Clicked');
+                      playSound(1);
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.red,
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.zero,
+                      )
+                    ),
+                      child: Text(''),
+                  ),
+                ),
+              ),
+              Container(
+                child: Expanded(
+                  child: TextButton(
+                    onPressed: () {
+                      print('Clicked');
+                      playSound(2);
+                    },
+                    style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.orange,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.zero,
+                        )
+                    ),
                     child: Text(''),
+                  ),
                 ),
               ),
               Container(
-                height: 100.0,
-                width: 200.0,
-                color: Colors.orange,
-                child: TextButton(
-                  onPressed: () {
-                    print('Clicked');
-                    playSound(2);
-                  },
-                  child: Text(''),
+                child: Expanded(
+                  child: TextButton(
+                    onPressed: () {
+                      print('Clicked');
+                      playSound(3);
+                    },
+                    style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.yellow,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.zero,
+                        )
+                    ),
+                    child: Text(''),
+                  ),
                 ),
               ),
               Container(
-                height: 100.0,
-                width: 200.0,
-                color: Colors.yellow,
-                child: TextButton(
-                  onPressed: () {
-                    print('Clicked');
-                    playSound(3);
-                  },
-                  child: Text(''),
+                child: Expanded(
+                  child: TextButton(
+                    onPressed: () {
+                      print('Clicked');
+                      playSound(4);
+                    },
+                    style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.green,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.zero,
+                        )
+                    ),
+                    child: Text(''),
+                  ),
                 ),
               ),
               Container(
-                height: 100.0,
-                width: 200.0,
-                color: Colors.green,
-                child: TextButton(
-                  onPressed: () {
-                    print('Clicked');
-                    playSound(4);
-                  },
-                  child: Text(''),
+                child: Expanded(
+                  child: TextButton(
+                    onPressed: () {
+                      print('Clicked');
+                      playSound(5);
+                    },
+                    style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.teal,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.zero,
+                        )
+                    ),
+                    child: Text(''),
+                  ),
                 ),
               ),
               Container(
-                height: 100.0,
-                width: 200.0,
-                color: Colors.teal,
-                child: TextButton(
-                  onPressed: () {
-                    print('Clicked');
-                    playSound(5);
-                  },
-                  child: Text(''),
+                child: Expanded(
+                  child: TextButton(
+                    onPressed: () {
+                      print('Clicked');
+                      playSound(6);
+                    },
+                    style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.blue,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.zero,
+                        )
+                    ),
+                    child: Text(''),
+                  ),
                 ),
               ),
               Container(
-                height: 100.0,
-                width: 200.0,
-                color: Colors.blue,
-                child: TextButton(
-                  onPressed: () {
-                    print('Clicked');
-                    playSound(6);
-                  },
-                  child: Text(''),
-                ),
-              ),
-              Container(
-                height: 100.0,
-                width: 200.0,
-                color: Colors.purple,
-                child: TextButton(
-                  onPressed: () {
-                    print('Clicked');
-                    playSound(7);
-                  },
-                  child: Text(''),
+                child: Expanded(
+                  child: TextButton(
+                    onPressed: () {
+                      print('Clicked');
+                      playSound(7);
+                    },
+                    style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.purple,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.zero,
+                        )
+                    ),
+                    child: Text(''),
+                  ),
                 ),
               ),
             ],
